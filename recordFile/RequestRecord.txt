@@ -1,0 +1,3 @@
+[INFO]NowTime : 2017-05-10 14:23:38 [Passenger Request]: [CR,(1,1),(2,2)]
+[INFO]NowTime : 2017-05-10 14:23:47 [Passenger Request]: [CR,(12,23),(34,45)]
+[ERROR]NowTime : 2017-05-10 15:31:50 [Error Request]: CR,(1,1),(2,2)]
