@@ -1,7 +1,0 @@
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 6, [credit] is : 0, [status] is : Pending, [isSelected] : Yes, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 52, [credit] is : 0, [status] is : Pending, [isSelected] : No, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 17, [credit] is : 0, [status] is : Pending, [isSelected] : No, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 74, [credit] is : 0, [status] is : Pending, [isSelected] : No, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 72, [credit] is : 0, [status] is : Pending, [isSelected] : No, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:33:34 [Detail information]: Taxi [ID] is : 88, [credit] is : 0, [status] is : Pending, [isSelected] : No, [want to] : (23,5) , Used Time : 3611
-[INFO]NowTime : 2017-05-02 22:41:39 [Detail information]: Taxi [ID] is : 5, [credit] is : 0, [status] is : Pending, [isSelected] : Yes, [want to] : (14,17) , Used Time : 1613
